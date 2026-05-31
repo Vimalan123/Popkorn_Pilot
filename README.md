@@ -159,20 +159,6 @@ Top Movie Recommendations:
 
 ---
 
-## 👨‍💻 Developer
-
-**Vimalan B**
-
-B.E. Computer Science Engineering
-
-Interested in:
-
-* Artificial Intelligence
-* Machine Learning
-* Cybersecurity
-* Software Development
-
-GitHub: https://github.com/your-github-username
 
 ---
 
